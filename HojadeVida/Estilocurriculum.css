@@ -1,0 +1,76 @@
+.ubicacion {
+    text-align: right
+    ;
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+.inicio {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 5px;
+}
+
+.Encabezado{
+    border-radius: 10%;
+    width: 25%;
+    text-align: right;
+}
+
+.contacto {
+    width: 15%;
+    font-size: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 1px;
+    padding: 1px;
+}
+
+.mail {
+    width: 15%;
+    font-size: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 1px;
+    padding: 1px;
+}
+
+.web {
+    width: 15%;
+    font-size: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 1px;
+    padding: 1px;
+}
+
+.descripcion {
+    background-color: blue;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.educacion {
+    background-color: gray;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.experiencia {
+    background-color: yellowgreen;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.hobbies {
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+div {
+    text-align: center;
+}
